@@ -169,3 +169,11 @@ Some concepts referenced here are intentionally abstracted.
 Further layers of the framework remain proprietary.
 
 ---
+## 📄 File Verification
+
+The main paper is provided as:
+
+**File:** `Adaptive_Cognition_DZilva.pdf`  
+**SHA-256 Hash:** `a8a9cffaef7cb59b97521993655a74a85b33ee5340b3c6e46ea53fb301a6b93b`  
+
+You can use this hash to verify the integrity of the file.
